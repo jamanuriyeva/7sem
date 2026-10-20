@@ -28,20 +28,22 @@
 
 В результате сформирована проектная модель сайта кафедры, отражающая его основные функции, структуру данных и типовые сценарии работы. Разработанные диаграммы могут использоваться при проектировании интерфейса, организации хранения информации и реализации механизмов управления содержимым сайта.
 
-#1 Use case
+# 1 Use case
+
 ![](https://github.com/jamanuriyeva/7sem/blob/3e2b4568e3157e4f0687bc42f01fbf740f36f940/diagrams/out/diagrams/use_case.png)
 
-#2 Classes
+# 2 Classes
+
 ![](https://github.com/jamanuriyeva/7sem/blob/3e2b4568e3157e4f0687bc42f01fbf740f36f940/diagrams/out/diagrams/class_diagram.png)
 
-#3 Sequence
+# 3 Sequence
 
 ![](https://github.com/jamanuriyeva/7sem/blob/3e2b4568e3157e4f0687bc42f01fbf740f36f940/diagrams/out/diagrams/sequence.png)
 
-#4 State
+# 4 State
 
 ![](https://github.com/jamanuriyeva/7sem/blob/3e2b4568e3157e4f0687bc42f01fbf740f36f940/diagrams/out/diagrams/state.png)
 
-#5 Activity
+# 5 Activity
 
 ![](https://github.com/jamanuriyeva/7sem/blob/3e2b4568e3157e4f0687bc42f01fbf740f36f940/diagrams/out/diagrams/activity.png)
